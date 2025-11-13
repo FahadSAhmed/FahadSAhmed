@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m **Fahad S. Ahmed, MD**
 
-## **Technical Profile (Bioinformatics-Focused Version)**
+## **Technical Profile**
 
 I am a physician–scientist specializing in **hematopathology**, **molecular diagnostics**, and **computational oncology**. My work focuses on developing **robust, interpretable machine learning pipelines** for biomarker discovery, clinical outcome prediction, and multi-omic integration across hematologic malignancies.
 
